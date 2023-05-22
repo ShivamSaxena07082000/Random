@@ -1,3 +1,3 @@
 import random
-ab = random.randint(20,80)
+ab = random.randint(50,80)
 print(ab)
